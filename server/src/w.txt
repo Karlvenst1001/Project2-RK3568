@@ -1,0 +1,15 @@
+[PRIVATE]w->q:qq
+[PRIVATE]w->q:qqqqq
+[PRIVATE]w->1:eee
+[PRIVATE]w->1:dfff
+[PRIVATE]w->1:yyyy
+[PRIVATE]q->w:qqqq
+[PRIVATE]w->q:www
+[PRIVATE]w->q:eee
+[PRIVATE]q->w:ttt
+[PRIVATE]q->w:哇来了
+[PRIVATE]w->q:妮哈
+[PRIVATE]q->w:阿
+
+[PRIVATE]w->q:他
+[PRIVATE]q->w:然它
